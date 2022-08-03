@@ -1,4 +1,4 @@
 # dinossaur-game
  Dinossaur game desenvolvido no BootCamp Digital Innovation One 
 
- ##Em Desenvolvimento
+ <img src="img/preview.jpg">
